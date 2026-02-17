@@ -1,0 +1,2466 @@
+{
+  "restaurant": "TAJ MAHAL – Indisches Restaurant",
+  "currency": "EUR",
+  "source_pdf": "Speisekarte Poing 3.pdf",
+  "sections": [
+    {
+      "title": "APERITIFS",
+      "items": [
+        {
+          "code": "301",
+          "name": "House Aperitif 1",
+          "description": null,
+          "sizes": [
+            "0,1 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "302",
+          "name": "Glas Prosecco 1",
+          "description": null,
+          "sizes": [
+            "0,1 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "303",
+          "name": "Prosecco Spritz - Aperol/Hugo/Limette/Erdbeere/Maracuja/Mango/Limes/Rosé  1",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "7,90 €"
+          ]
+        },
+        {
+          "code": "304",
+          "name": "Campari - Soda/Orange 1",
+          "description": null,
+          "sizes": [
+            "5 cl"
+          ],
+          "prices": [
+            "6,90 €"
+          ]
+        },
+        {
+          "code": "305",
+          "name": "Martini - Bianco/Dry/Rosso",
+          "description": null,
+          "sizes": [
+            "5 cl"
+          ],
+          "prices": [
+            "5,50 €"
+          ]
+        },
+        {
+          "code": "306",
+          "name": "Sherry Sandeman - Medium/Dry",
+          "description": null,
+          "sizes": [
+            "5 cl"
+          ],
+          "prices": [
+            "5,50 €"
+          ]
+        },
+        {
+          "code": "321",
+          "name": "Gin Tonic 11",
+          "description": null,
+          "sizes": [
+            "5 cl"
+          ],
+          "prices": [
+            "8,90 €"
+          ]
+        },
+        {
+          "code": "322",
+          "name": "Wodka Lemon",
+          "description": null,
+          "sizes": [
+            "5 cl"
+          ],
+          "prices": [
+            "8,90 €"
+          ]
+        },
+        {
+          "code": "323",
+          "name": "Baccardi Cola 1, 9",
+          "description": null,
+          "sizes": [
+            "5 cl"
+          ],
+          "prices": [
+            "8,90 €"
+          ]
+        },
+        {
+          "code": "324",
+          "name": "Whisky Cola 1, 9",
+          "description": null,
+          "sizes": [
+            "5 cl"
+          ],
+          "prices": [
+            "7,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WHISKYS",
+      "items": [
+        {
+          "code": "331",
+          "name": "Johnny Walker Black Label 40,0 %",
+          "description": null,
+          "sizes": [
+            "4 cl"
+          ],
+          "prices": [
+            "8,50 €"
+          ]
+        },
+        {
+          "code": "332",
+          "name": "Chivas Regal 40,0 %",
+          "description": null,
+          "sizes": [
+            "4 cl"
+          ],
+          "prices": [
+            "8,50 €"
+          ]
+        },
+        {
+          "code": "333",
+          "name": "Dimple 40,0 %",
+          "description": null,
+          "sizes": [
+            "4 cl"
+          ],
+          "prices": [
+            "8,50 €"
+          ]
+        },
+        {
+          "code": "334",
+          "name": "Jack Daniels 43,0 %",
+          "description": null,
+          "sizes": [
+            "4 cl"
+          ],
+          "prices": [
+            "8,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SUPPEN",
+      "items": [
+        {
+          "code": "1",
+          "name": "Dal Shorba g4",
+          "description": "indische Linsensuppe – Indian lentil soup",
+          "sizes": [],
+          "prices": [
+            "6,90 €"
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Sabzi Shorbao g4i",
+          "description": "indische Gemüsesuppe – Indian vegetable soup",
+          "sizes": [],
+          "prices": [
+            "6,90 €"
+          ]
+        },
+        {
+          "code": "3",
+          "name": "Lachsan Shorba g4i",
+          "description": "indische Knoblauchsuppe – Indian garlic soup",
+          "sizes": [],
+          "prices": [
+            "6,90 €"
+          ]
+        },
+        {
+          "code": "4",
+          "name": "Chicken Shorba g4i",
+          "description": "indische Hühnersuppe – Indian chicken soup",
+          "sizes": [],
+          "prices": [
+            "7,90 €"
+          ]
+        },
+        {
+          "code": "5",
+          "name": "Mulagtany g4i",
+          "description": "scharfe exotische Suppe, Linsen, Hühner ﬂeisch, Curryblättern und Reis – Indian lentil soup, chicken, curryleafs, rice",
+          "sizes": [],
+          "prices": [
+            "7,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KALTE VORSPEISEN",
+      "items": [
+        {
+          "code": "6",
+          "name": "Samosa Chaat",
+          "description": "Teigtaschen gefüllt mit Kichererbsen, Curry, Joghurt, Chutneys – Dumplings ﬁlled with chickpeas, curry, yoghurt, chutneys",
+          "sizes": [],
+          "prices": [
+            "7,50 €"
+          ]
+        },
+        {
+          "code": "7",
+          "name": "Krabben-Cocktail Bombay a1",
+          "description": "mit kleinem Nan – shrimps cocktail with small nan",
+          "sizes": [],
+          "prices": [
+            "9,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "WARME VORSPEISEN",
+      "items": [
+        {
+          "code": "8",
+          "name": "Vegetable Pakora",
+          "description": "frisches gemischtes Gemüse – fresh mixed vegetables",
+          "sizes": [],
+          "prices": [
+            "5,90 €"
+          ]
+        },
+        {
+          "code": "9",
+          "name": "Onion Bhaji",
+          "description": "feine frittierte Küchlein aus gehackten Zwiebeln – delicious deep-fried quenelles of chopped onions",
+          "sizes": [],
+          "prices": [
+            "6,50 €"
+          ]
+        },
+        {
+          "code": "10",
+          "name": "Paneer Pakora g",
+          "description": "frischer hausgemachter Käse – fresh homemade cheese",
+          "sizes": [],
+          "prices": [
+            "6,90 €"
+          ]
+        },
+        {
+          "code": "11",
+          "name": "Chicken Pakora",
+          "description": "zartes Hühner ﬂeisch – tender chicken",
+          "sizes": [],
+          "prices": [
+            "6,50 €"
+          ]
+        },
+        {
+          "code": "12",
+          "name": "Vegetable Samosa a1",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "6,90 €"
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Pastetchen, mit frischem Gemüse gefüllt – 2 pastries ﬁlled with fresh vegetables",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "13",
+          "name": "Gemischte Pakoraplatte g",
+          "description": "für 2 Personen – with cheese, chicken, vegetable Pakora and Vegetable Samosa",
+          "sizes": [],
+          "prices": [
+            "13,90 €"
+          ]
+        },
+        {
+          "code": "14",
+          "name": "Gemischte Vegetarische Platte g",
+          "description": "gegrillter hausgem. Käse, Paprika, Hara Kebab – grilled homemade cheese, peppers, Hara Kebab",
+          "sizes": [],
+          "prices": [
+            "13,90 €"
+          ]
+        },
+        {
+          "code": "15",
+          "name": "Tandoori-Gemischter Vorspeisenteller für 2 Personen",
+          "description": "verschiedene Fleisch-Köstlichkeiten aus dem Holzk ohle·Lehmofen, mariniert in Joghurt, Safran und feinen Gewürzen – various meat delicacies out of the Tandoor clay-oven,  marinated in yogurt, saffron and ﬁne spices",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "frische knackige salate",
+      "items": [
+        {
+          "code": "16",
+          "name": "Salat Saison k",
+          "description": "Gemischter Salat mit Frenchdressing, auf Wunsch auch mit Essig und Öl – Mixed salad with french dressing or, ifprefered, with oil and vinegar)",
+          "sizes": [],
+          "prices": [
+            "6,50 €"
+          ]
+        },
+        {
+          "code": "17",
+          "name": "Tomatensalat",
+          "description": "mit Zwiebeln, Essig und Öl – Tomatoe salad with onions, vinegar and oil",
+          "sizes": [],
+          "prices": [
+            "6,50 €"
+          ]
+        },
+        {
+          "code": "18",
+          "name": "TAJ MAHAL Salat b, g",
+          "description": "Gemischter Salat mit Shrimps, Ananas, Käse und Mais – Mixed salad with shrimps, pineapple, cheese and corn",
+          "sizes": [],
+          "prices": [
+            "9,50 €"
+          ]
+        },
+        {
+          "code": "19",
+          "name": "Indischer Salat b, g, k",
+          "description": "mit gegrillten Hühnerbrust ﬁletstreifen, frischen Champignons, Mais, Zwiebeln und Joghurtdressing – Indian salad with grilled chicken breast strips, fresch mushrooms, corn and onions in yogurt dressing",
+          "sizes": [],
+          "prices": [
+            "9,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "TANDOORI KHAJANA",
+      "items": [
+        {
+          "code": "21",
+          "name": "½ Tandoori-Chicken g",
+          "description": "Hähnchen mariniert nach einem berühmten nordindischen Rezept – Halfa chicken marinated in an exquisit North Indian tradition",
+          "sizes": [],
+          "prices": [
+            "15,50 €"
+          ]
+        },
+        {
+          "code": "22",
+          "name": "Mutton Seekh Kabab",
+          "description": "Frisch gehacktes Lamm ﬂeisch gegrillt, zubereitet mit Knoblauch, Tomaten, Ingwer und Koriander – Fresh chopped lamb grilled with garlic, tomatoes, ginger, coriander",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "23",
+          "name": "Chicken Tikka g",
+          "description": "Zarte marinierte Hühner ﬂeischstücke, gegrillt – Marinated ﬁlet of chicken, grilled",
+          "sizes": [],
+          "prices": [
+            "16,90 €"
+          ]
+        },
+        {
+          "code": "24",
+          "name": "Botti Kabab g",
+          "description": "Zartes mariniertes Lamm ﬁlet vom Spieß – Tender marinated ﬁlet of lamb stewered and roasted",
+          "sizes": [],
+          "prices": [
+            "19,90 €"
+          ]
+        },
+        {
+          "code": "25",
+          "name": "Haryali Malai Kebab g",
+          "description": "Zartes mariniertes Hühner ﬂeisch in Spinat-, Minze- und Koriandersoße mit Beilage – Tender marinated chicken in spinach, mint and coriander sauce with side dish)",
+          "sizes": [],
+          "prices": [
+            "16,90 €"
+          ]
+        },
+        {
+          "code": "26",
+          "name": "Vegetable Tandoori g",
+          "description": "Hausgemachter Käse, Blumenkohl, Tomaten, Zwiebeln, Zucchini, Ananas, Auberginen und Paprika am Spieß gegrillt – Homemade cheese, cauli ﬂower, tomatoes, onions, zucchini, courgettes, pineapple, eggplant and capsicum grilled on a pic",
+          "sizes": [],
+          "prices": [
+            "15,50 €"
+          ]
+        },
+        {
+          "code": "27",
+          "name": "Fisch Tikka  g, d",
+          "description": "Frisches Seelachs ﬁlet in Joghurt und Gewürzen eingelegt, knusprig gegrillt – Coalﬁshﬁlet marinated in yogurt and spices, grilled",
+          "sizes": [],
+          "prices": [
+            "18,50 €"
+          ]
+        },
+        {
+          "code": "28",
+          "name": "Jheenga Tandoori g, b",
+          "description": "Riesengarnelen ohne Schale in Joghurt und Gewürzen eingelegt, knusprig gegrillt – King prawns peeled marinated in yogurt and spices, grilled",
+          "sizes": [],
+          "prices": [
+            "24,50 €"
+          ]
+        },
+        {
+          "code": "29",
+          "name": "Mix-Grill-Platte g",
+          "description": "Etwas von allen Tandoori-Köstlichkeiten – The various Tandoori specialities combined B",
+          "sizes": [],
+          "prices": [
+            "22,50 €"
+          ]
+        },
+        {
+          "code": "30",
+          "name": "TAJ MAHAL-Teller a, 1",
+          "description": "gebratenes Hühner- und Lamm ﬂeisch mit frischem Gemüse, mit Reis – mild fried chicken and lamb with fresh vegetables, served with rice, mild",
+          "sizes": [],
+          "prices": [
+            "19,90 €"
+          ]
+        },
+        {
+          "code": "31",
+          "name": "Duck Tandoori ga1",
+          "description": "zartes mariniertes Entenbrust ﬁlet (mit Haut) im Holzkohle-Lehmofen gegrillt, frisches Gemüse, würzige Soßen, Reis – tender duck breast ﬁlet (with skin) grilled in Tandoor clay oven, fresh vegetables, spicy sauces, rice",
+          "sizes": [],
+          "prices": [
+            "20,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hähnchen-Spezialitäten",
+      "items": [
+        {
+          "code": "32",
+          "name": "Chicken Badam Pasanda oder Chicken Korma g, h, e",
+          "description": "Zartes Hähnchen ﬂeisch in Nuß-Soße mit Kokosnuss ﬂocken und gemahlenen Mandeln – Tender chicken in nut sauce with coconut ﬂakes and shredded almonds",
+          "sizes": [],
+          "prices": [
+            "15,50 €"
+          ]
+        },
+        {
+          "code": "33",
+          "name": "Karahi Murgh",
+          "description": "Gebratenes Hühner ﬂeisch in Currysoße, in der Pfanne serviert – Tender chicken in curry sauce served sizzling hot",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "34",
+          "name": "Chicken Jalfrezi",
+          "description": "Hühner ﬂeisch ohne Knochen, mit Paprika, Zwiebeln, Tomaten, grünem Chili, scharf – Spicy boneless chicken meat with capsicum, onions, tomatoes, green chili, hot",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "35",
+          "name": "Chicken Vindaloo",
+          "description": "Hühner ﬂeisch mit Spezialgewürzen aus Goa, sehr scharf – Boneless chicken in a special blend of spices from Goa, very hot",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "36",
+          "name": "Butter Chicken g, e",
+          "description": "Zartes Hühner ﬂeisch aus dem Lehmofen in Butter-Tomaten-Soße – Tender chicken from clay oven in a butter tomatoe sauce",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "37",
+          "name": "Tandoori Chicken Tikka Masala g, e",
+          "description": "Zartes Hühner ﬂeischﬁlet aus dem Lehmofen in Masalasauce – Tender chicken from clay oven in masala sauce",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "38",
+          "name": "Chicken Saag",
+          "description": "Zartes Hühner ﬂeisch mit indischem Spinat, auf berühmte nordindische Art – Tender chicken with Indian spinach - a north Indian speciality",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "39",
+          "name": "Mango Chicken g, h",
+          "description": "Zartes Hühner ﬂeisch in frischer Mango-Safran-Cashewnuss-Soße – Tender chicken in mango-saffron-cashew sauce",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "40",
+          "name": "Chicken Kashmiri g1",
+          "description": "Zartes mariniertes Hühner ﬂeisch mit aus dem Holzkohle-Lehmofen mit frischem Joghurt, Paprika, Zwiebeln und Ingwer nach Kashmiri-Masala-Art zubereitet – Tender marinated lamb from the charcoal-clay oven with fresh yoghurt, peppers, onions, ginger to Kashmiri-Masala-style preparation",
+          "sizes": [],
+          "prices": [
+            "18,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "RIND-Spezialitäten",
+      "items": [
+        {
+          "code": "42",
+          "name": "Beef Curry",
+          "description": "Zartes Rind ﬂeisch in Currysauce – Tender beef in curry sauce",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "43",
+          "name": "Beef Masala g, e",
+          "description": "Zartes Rind ﬂeisch in Masala-Soße – Tender bee ﬁn masala sauce",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "44",
+          "name": "Beef Sabzi",
+          "description": "Rindﬂeischstücke in frischem Gemüse und kräftiger Soße / Beefwith fresh vegetables in spicy sauce)",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "45",
+          "name": "Beef Bhunna",
+          "description": "Zartes Rind ﬂeisch mit Tomaten und Röstzwiebeln in kräftiger Sauce – Tender beefwith tomatoes and fried onions in a spicy sauce)",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "46",
+          "name": "Beef Vindaloo",
+          "description": "Zartes Rind ﬂeisch mit Spezialgewürzen aus Goa, sehr scharf – Tender beefwith spices in the tradition ofGoa, very hot",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "47",
+          "name": "Mango Beef g, h",
+          "description": "Zartes Rind ﬂeisch in Mango-Safran-Cashewnuss-Soße – Tender beef in mango-saffron-cashew sauce",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lamm-Spezialitäten",
+      "items": [
+        {
+          "code": "49",
+          "name": "Rogan Josh",
+          "description": "Zartes Lamm ﬂeisch in Rogan-Curry-Soße – Tender lamb in Rogan curry sauce",
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "50",
+          "name": "Mughlai Meat g, h",
+          "description": "Zartes Lamm ﬂeisch in Mandel-Safran-Sahnesoße – Tender lamb in almond saffron-cream sauce",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "51",
+          "name": "Saag Ghosht",
+          "description": "Gebratenes Lamm ﬂeisch mit indischem Spinat nach berühmter nordindischer Art – Tender lamb with indian spinach in the North Indian tradition",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "52",
+          "name": "Mutton Khumb Wala g, h, e",
+          "description": "Zartes Lamm ﬂeisch mit frischen Champignons, Knoblauch und Ingwer in Mandel-Safran-Soße – Tender lamb with fresh mushrooms, garlic and ginger in an almond saffron sauce",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "53",
+          "name": "Mutton Vindaloo",
+          "description": "Zartes Lamm ﬂeisch mit Spezialgewürzen aus Goa, sehr scharf – Tender lamb in the hot spicy Goa tradition",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "54",
+          "name": "Karahi Ghosht",
+          "description": "Gebratenes Lamm ﬂeisch in Curry-Soße, in der Pfanne serviert – Tender lamb in curry sauce served in the pan",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "55",
+          "name": "Dahi Ghosht g",
+          "description": "Zartes Lamm ﬂeisch in Curry-Joghurt-Mandel-Soße – Tender lamb in a curry yogurt almond sauce",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        },
+        {
+          "code": "56",
+          "name": "Lamm-Boti Masala g, e",
+          "description": "Tandoori Lamm ﬁlet in Masala-Soße – Tender lamb in masala sauce",
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        },
+        {
+          "code": "57",
+          "name": "Mango-Lamm g, h",
+          "description": "Zartes Lamm ﬂeisch in frischer Mango-Safran-Cashewnuss-Soße / Tender lamb in mango-saffron-cashew sauce",
+          "sizes": [],
+          "prices": [
+            "17,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Enten- Spezialitäten",
+      "items": [
+        {
+          "code": "60",
+          "name": "Ente Khumb Wala g, h",
+          "description": "Zartes Entenbrust ﬁlet mit frischen Champignons, Knoblauch und Ingwer in Mandel-Safran-Soße – Tender ﬁlet of duck breast with fresh mushrooms, garlic and ginger in an almond saffron sauce)",
+          "sizes": [],
+          "prices": [
+            "20,50 €"
+          ]
+        },
+        {
+          "code": "61",
+          "name": "Ente Jalfrezi g, h",
+          "description": "Zartes Entenbrust ﬁlet mit Paprika, Zwiebeln, Tomaten, grünem Chili, scharf – Filet of duck breast with peppers, onions, tomatoes, green chili, hot",
+          "sizes": [],
+          "prices": [
+            "20,50 €"
+          ]
+        },
+        {
+          "code": "62",
+          "name": "Ente TAJ MAHAL g, h",
+          "description": "Zartes Entenbrust ﬁlet mit frischen P ﬁfferlingen in Masala-Soße – Filet of duck breast mith fresh mushrooms in masala sauce",
+          "sizes": [],
+          "prices": [
+            "20,50 €"
+          ]
+        },
+        {
+          "code": "63",
+          "name": "Ente Mango (Khatta Mittha) g, h",
+          "description": "Zartes Entenbrust ﬁlet mit frischer Mango, Ananas in Mango-Safran-Cashewnuss-Sauce, fein gewürzt – Filet of duck breast with freh mango, pineapple in a mango saffron cashew sauce, ﬁne seasoning",
+          "sizes": [],
+          "prices": [
+            "20,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fisch+GARNELEN -Spezialitäten",
+      "items": [
+        {
+          "code": "64",
+          "name": "Fisch Chili d, a",
+          "description": "Seelachs ﬁlet in Chilisauce, sehr scharf – Coal ﬁshﬁlet in chili sauce, very spicy",
+          "sizes": [],
+          "prices": [
+            "16,90 €"
+          ]
+        },
+        {
+          "code": "65",
+          "name": "Fisch Mango (Khatta Mittha) d, h",
+          "description": "Seelachs ﬁlet mit frischer Mango, Ananas in Mango-Safran-Cashewnuss-Sauce – Coalﬁshﬁlet with fresh mango, pineapple in a mango saffron cashew sauce",
+          "sizes": [],
+          "prices": [
+            "16,90 €"
+          ]
+        },
+        {
+          "code": "66",
+          "name": "Fisch Masala d, g, e",
+          "description": "Seelachs ﬁlet nach ostindischer Art zubereitet – Coal ﬁshﬁlet in the East Indian tradition",
+          "sizes": [],
+          "prices": [
+            "16,90 €"
+          ]
+        },
+        {
+          "code": "67",
+          "name": "Jheenga-Curry b",
+          "description": "Riesengarnelen ohne Schale in Currysoße mit feinen Gewürzen – King prawns peeled in curry sauce delicately seasoned",
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        },
+        {
+          "code": "68",
+          "name": "Jheenga-Masala b, g, e",
+          "description": "Riesengarnelen ohne Schale in kräftiger Masala-Soße – King prawns in spicy masala sauce)",
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        },
+        {
+          "code": "69",
+          "name": "Jheenga Khumb Wala b, h, e",
+          "description": "Riesengarnelen ohne Schale mit frischen Champignons, Knoblauch und Ingwer in Mandel-Safran-Sauce – King prawns peeled with fresh mushrooms, garlic, ginger in an almond saffron sauce)",
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        },
+        {
+          "code": "70",
+          "name": "Jheenga-Goa b, h",
+          "description": "Riesengarnelen ohne Schale in Kokosnuss-Sauce mit ausgewählten Gewürzen nach Goa-Art, sehr scharf – King prawns peeled in coconut sauce with selected spices in Goa tradition, very spicy",
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        },
+        {
+          "code": "71",
+          "name": "Jheenga-Mango b, h",
+          "description": "Riesengarnelen ohne Schale in frischer Mango-Safran-Cashewnuss-Soße, fein gewürzt – King prawns peeled in a mango saffron cashew sauce, ﬁne seasoning",
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vegane und Vegetarische Spezialitäten",
+      "items": [
+        {
+          "code": "72",
+          "name": "Bombay Alu",
+          "description": "Kartoffeln in kräftiger Zitronengras-Soße, sehr scharf – Potatoes in a tasty lemon grass sauce, very hot",
+          "sizes": [],
+          "prices": [
+            "12,50 €"
+          ]
+        },
+        {
+          "code": "73",
+          "name": "Shahi Paneer g, e",
+          "description": "Hausgemachter Käse, zubereitet in Butter-Tomaten-Sahne-Soße, fein gewürzt – Homemade cheese in a tomatoe cream sauce, ﬁne seasoning",
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "74",
+          "name": "Saag Paneer g",
+          "description": "Kräftiger indischer Spinat mit hausgemachtem Käse – Tasty indian spinach with homemade cheese",
+          "sizes": [],
+          "prices": [
+            "14,50 €"
+          ]
+        },
+        {
+          "code": "75",
+          "name": "Sabzi Kofta",
+          "description": "Gemüseklößchen in würziger Curry-Soße – Vegetable dumplings in a spicy curry sauce",
+          "sizes": [],
+          "prices": [
+            "14,50 €"
+          ]
+        },
+        {
+          "code": "76",
+          "name": "Chana Masala",
+          "description": "Kichererbsen in Curry mit frischen Tomaten und Ingwer – Chickpeas in Curry with fresh tomatoes and ginger",
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "77",
+          "name": "Dal Makhni g",
+          "description": "indisches Nationalgericht mit schwarzen Linsen und Butter – National dish of India, black lentils prepared with butter",
+          "sizes": [],
+          "prices": [
+            "14,50 €"
+          ]
+        },
+        {
+          "code": "78",
+          "name": "Dal Tadka g",
+          "description": "indisches Nationalgericht mit gelben Linsen und Butter – National dish of India, yellow lentils prepared with butter",
+          "sizes": [],
+          "prices": [
+            "14,50 €"
+          ]
+        },
+        {
+          "code": "79",
+          "name": "Karahi Paneer g",
+          "description": "Frischer gebratener hausgemachter Käse in Curry-Soße, in der Pfanne serviert – Fresh homemade cheese in curry sauce, served in a pan",
+          "sizes": [],
+          "prices": [
+            "14,50 €"
+          ]
+        },
+        {
+          "code": "80",
+          "name": "Bhindi Masala",
+          "description": "Frisches indisches Okra-Gemüse in kräftiger Sauce/ Fresh Indian okra in a spicy sauce)",
+          "sizes": [],
+          "prices": [
+            "14,50 €"
+          ]
+        },
+        {
+          "code": "81",
+          "name": "Mixed Vegetables Mango g, h",
+          "description": "Gemischtes frisches Gemüse mit Mango, Safran, Cashewnuss-Soße – Mixed fresh vegetables with Mango, saffron, cashew-sauce, spicy seasoned)",
+          "sizes": [],
+          "prices": [
+            "14,50 €"
+          ]
+        },
+        {
+          "code": "82",
+          "name": "Baingan Ka Bharta",
+          "description": "Frische Auberginen püriert mit Zwiebeln und Tomaten, kräftig gewürzt – Fresh eggplants mashed with onions and tomatoes, spicy",
+          "sizes": [],
+          "prices": [
+            "14,50 €"
+          ]
+        },
+        {
+          "code": "83",
+          "name": "Mixed Vegetables Jalfrezi g",
+          "description": "mit 9 frischen verschiedenen Gemüsesorten nach nordindischer Art zubereitet, in der Pfanne serviert, scharf –",
+          "sizes": [],
+          "prices": [
+            "15,90 €"
+          ]
+        },
+        {
+          "code": "9",
+          "name": "fresh different kind of vegetables are prepared in the North Indian style, served in the pan, hot",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "Reis-Spezialitäten",
+      "items": [
+        {
+          "code": "84",
+          "name": "Lamm Tikka Biryani b, h, e",
+          "description": "Lamm ﬁlet aus dem Holzkohle-Lehmofen mit Mandeln und Rosinen – Lamb from charcoal-clay oven with almonds and raisins",
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        },
+        {
+          "code": "85",
+          "name": "Chicken Tikka Biryani b, h, e",
+          "description": "Hühner ﬁlet aus dem Holzkohle-Lehmofen mit Mandeln und Rosinen – Chicken from charcoal-clay oven with almonds and raisins)",
+          "sizes": [],
+          "prices": [
+            "16,90 €"
+          ]
+        },
+        {
+          "code": "86",
+          "name": "Beef Biryani h, e",
+          "description": "Rindﬂeisch mit Mandeln und Rosinen – Beef with almonds and raisins",
+          "sizes": [],
+          "prices": [
+            "19,50 €"
+          ]
+        },
+        {
+          "code": "87",
+          "name": "Vegetable Biryani",
+          "description": "Mit frischem gemischten Gemüse – With a variety of fresh vegtables",
+          "sizes": [],
+          "prices": [
+            "14,50 €"
+          ]
+        },
+        {
+          "code": "88",
+          "name": "Shajahani Biryani b, h, e",
+          "description": "Mit Hühnerbrust- und Lammstreifen, Shrimps und Nüssen – With stripes of chicken breast and lamb, shrimps and nuts",
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        },
+        {
+          "code": "89",
+          "name": "Jheenga Biryani b, h, e",
+          "description": "Riesengarnelen mit Mandeln und Rosinen – King prawns with almonds and raisins",
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Thalis",
+      "items": []
+    },
+    {
+      "title": "Thalis",
+      "items": []
+    },
+    {
+      "title": "Thalis",
+      "items": []
+    },
+    {
+      "title": "Thalis",
+      "items": []
+    },
+    {
+      "title": "Thalis",
+      "items": []
+    },
+    {
+      "title": "Thalis",
+      "items": [
+        {
+          "code": "90",
+          "name": "Vegetable Thali g",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "16,50 €"
+          ]
+        },
+        {
+          "code": "3",
+          "name": "verschiedene Gemüsegerichte, Raita, Salat und Basmati-Reis",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "3",
+          "name": "different vegetable preparations, raita, salad and basmati rice",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "91",
+          "name": "TAJ MAHAL Thali g, e",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "18,90 €"
+          ]
+        },
+        {
+          "code": "2",
+          "name": "verschiedene Fleischgerichte, 1 Gemüsegericht, Raita, Salat, Nan und Basmati-Reis",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "2",
+          "name": "different meat dishes, 1 vegetable dish, raita, salad, nan and Basmati rice",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "92",
+          "name": "Fisch Thali g, d, b, e",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "21,50 €"
+          ]
+        },
+        {
+          "code": "3",
+          "name": "verschiedene Fischgerichte, Raita, Salat und Basmati-Reis",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "3",
+          "name": "different kinds of ﬁsh, raita, salad and Basmati rice",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "93",
+          "name": "Vegetable Thali für 2 Personen g, e",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "33,90 €"
+          ]
+        },
+        {
+          "code": "6",
+          "name": "verschiedene Gemüsegerichte – with a variety of 6 vegetable dishes",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "94",
+          "name": "TAJ MAHAL Thali für 2 Personen g, h, e",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "36,90 €"
+          ]
+        },
+        {
+          "code": "4",
+          "name": "verschiedene Fleischgerichte und 2 verschiedene Gemüsegerichte",
+          "description": "With a variety of 4 meat and 2 vegetable dishes",
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "95",
+          "name": "Spezial-Menü für 2 Personen g, h, e",
+          "description": "3-Gänge-Menü, lassen Sie sich überraschen, mit indischem Mangoschnaps – Special surprise menu for 2 persons, with Indian liqueur",
+          "sizes": [],
+          "prices": [
+            "58,00 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BEILAGEN",
+      "items": [
+        {
+          "code": "121",
+          "name": "Plain Dahi g",
+          "description": "einfacher Joghurt – plain yogurt",
+          "sizes": [],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "122",
+          "name": "Kheere Ka Raita g",
+          "description": "Gurken Joghurt – cucumber yogurt",
+          "sizes": [],
+          "prices": [
+            "6,20 €"
+          ]
+        },
+        {
+          "code": "123",
+          "name": "Pulao Rice h",
+          "description": "Basmati Reis nach Moghul Art zubereitet, berühmte",
+          "sizes": [],
+          "prices": [
+            "6,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beilagen",
+      "items": [
+        {
+          "code": "124",
+          "name": "Basmati-Safran-Reis",
+          "description": "Portion of Basmati-saffron-rice",
+          "sizes": [],
+          "prices": [
+            "5,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tandoori Brot",
+      "items": [
+        {
+          "code": "102",
+          "name": "Nan  A(M)G",
+          "description": "Ovales Brot aus Hefeteig – Oval raised bread",
+          "sizes": [],
+          "prices": [
+            "3,90 €"
+          ]
+        },
+        {
+          "code": "103",
+          "name": "Butter Nan  A(M)G",
+          "description": "Ovales Brot aus Hefeteig mit Butter – Oval raised bread with butter",
+          "sizes": [],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "104",
+          "name": "Roti  A(H)",
+          "description": "Flaches Vollkorn ﬂadenbrot – Flat whole-meal bread",
+          "sizes": [],
+          "prices": [
+            "3,90 €"
+          ]
+        },
+        {
+          "code": "105",
+          "name": "Prantha  A(H)G",
+          "description": "Mehrschichtiges Vollkornbrot mit Butter – Multiplayer whole-meal bread with butter",
+          "sizes": [],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "105",
+          "name": "Mint Prantha A(H)",
+          "description": "Gefüllt mit frischer Minze – Filled with mint",
+          "sizes": [],
+          "prices": [
+            "5,50 €"
+          ]
+        },
+        {
+          "code": "106",
+          "name": "Vegetable Prantha A(H)",
+          "description": "Gefüllt mit frischem Gemüse – Filled with fresh vegetables",
+          "sizes": [],
+          "prices": [
+            "5,50 €"
+          ]
+        },
+        {
+          "code": "107",
+          "name": "Paneer Kulcha A(M)G",
+          "description": "Hefeteigbrot, gefüllt mit hausgemachtem Käse – Raised bread ﬁlled with homemade cheese",
+          "sizes": [],
+          "prices": [
+            "5,50 €"
+          ]
+        },
+        {
+          "code": "108",
+          "name": "Lachsan Kulcha oder Onion Kulcha A(M)G",
+          "description": "Hefeteigbrot, gefüllt mit Knoblauch oder Zwiebeln – Raised bread ﬁlled with garlic or onions",
+          "sizes": [],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "109",
+          "name": "Keema Nan A(M)G",
+          "description": "Hefeteigbrot gefüllt mit Lammhack ﬂeisch – Raised bread ﬁlled with minced lamb meat",
+          "sizes": [],
+          "prices": [
+            "6,00 €"
+          ]
+        },
+        {
+          "code": "110",
+          "name": "Peshwari Nan A(M)GHE",
+          "description": "Hefeteig gefüllt mit Kokosnuss, Hühner ﬂeisch und Trockenfrüchten – Raised bread ﬁlled with coconut, chicken meat and dried fruit",
+          "sizes": [],
+          "prices": [
+            "6,50 €"
+          ]
+        },
+        {
+          "code": "111",
+          "name": "Pappad",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "4,00 €"
+          ]
+        },
+        {
+          "code": "2",
+          "name": "Stück Linsenwaffeln mit 3 verschiedenen schmackhaften Saucen",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "2",
+          "name": "pieces of lentils wafers with 3 different delicious sauces)",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "DESSERT",
+      "items": [
+        {
+          "code": "141",
+          "name": "Mango Creme mit Vanille-Eis g1",
+          "description": "Mango cream with vanilla-icecream",
+          "sizes": [],
+          "prices": [
+            "7,90 €"
+          ]
+        },
+        {
+          "code": "142",
+          "name": "Gajar Halwa gh",
+          "description": "geriebene Karotten mit Mandeln, Pistazien und Honig garniert – grated carrots with almonds, pistachio and honey",
+          "sizes": [],
+          "prices": [
+            "7,90 €"
+          ]
+        },
+        {
+          "code": "143",
+          "name": "Gulab Jamun ag",
+          "description": "Bällchen aus Milch und Quark, in Honig gebacken – dumplings made of milk and cheese, baked in honey",
+          "sizes": [],
+          "prices": [
+            "7,90 €"
+          ]
+        },
+        {
+          "code": "144",
+          "name": "Gulab Jamun mit Vanilleeis oder Kulﬁ agh",
+          "description": "Bällchen aus Milch und Quark, in Honig gebacken mit Vanilleeis oder mit Kul ﬁ – dumplings made of milk and cheese, baked in honey with vanilla-icecream or Kul ﬁ",
+          "sizes": [],
+          "prices": [
+            "9,90 €"
+          ]
+        },
+        {
+          "code": "145",
+          "name": "Kulﬁ gh",
+          "description": "süßes Speiseeis aus Milch mit Mandeln, Pistazien und Kokosnuss-Raspeln – ice cream",
+          "sizes": [],
+          "prices": [
+            "7,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "dessert",
+      "items": [
+        {
+          "code": "146",
+          "name": "Firni gh",
+          "description": "Honigmilch mit Reismehl, Mandeln, Pistazien und Nüssen – honey milk with rice ﬂour, almonds, pistachio, nuts",
+          "sizes": [],
+          "prices": [
+            "7,90 €"
+          ]
+        },
+        {
+          "code": "147",
+          "name": "Vanilleeis in Rosinen und Grappa g",
+          "description": "vanilla icecream with raisins in grappa, large",
+          "sizes": [],
+          "prices": [
+            "8,90 €"
+          ]
+        },
+        {
+          "code": "148",
+          "name": "TAJ MAHAL  Teller gh1 für 1 Person",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "9,90 €"
+          ]
+        },
+        {
+          "code": "4",
+          "name": "verschiedene",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "Dessert",
+      "items": []
+    },
+    {
+      "title": "dessert",
+      "items": [
+        {
+          "code": "149",
+          "name": "TAJ MAHAL  Teller gh1 für 2 Personen",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "13,90 €"
+          ]
+        },
+        {
+          "code": "6",
+          "name": "verschiedene",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "Dessert",
+      "items": [
+        {
+          "code": "6",
+          "name": "different",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "dessert",
+      "items": [
+        {
+          "code": "1",
+          "name": "mit Farbstoff 2 koffeinhaltig 3 mit Antioxidationsmittel 4 mit Geschmacksverstärker",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "5",
+          "name": "geschwefelt 6 geschwärzt 7 gewachst 8 mit Phosphat 9 Süßungsmittel 10 Milcheiweiß",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        },
+        {
+          "code": "11",
+          "name": "chininhaltig 12 taurinhaltig 13 mit Konservierungsstoffen",
+          "description": "Allergiker fragen bitte unser Personal. Wir können Ihnen gerne ausführlichere Angaben machen.",
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "Alkoholfreie  Getränke",
+      "items": [
+        {
+          "code": "341",
+          "name": "Tafelwasser Sprudel",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "3,90 €"
+          ]
+        },
+        {
+          "code": "342",
+          "name": "Gerolsteiner mit Kohlensäure",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        },
+        {
+          "code": "343",
+          "name": "Gerolsteiner mit Kohlensäure",
+          "description": null,
+          "sizes": [
+            "0,75 l"
+          ],
+          "prices": [
+            "6,90 €"
+          ]
+        },
+        {
+          "code": "344",
+          "name": "VIO still",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        },
+        {
+          "code": "345",
+          "name": "VIO still",
+          "description": null,
+          "sizes": [
+            "0,75 l"
+          ],
+          "prices": [
+            "6,90 €"
+          ]
+        },
+        {
+          "code": "346",
+          "name": "Paulaner Spezi 1, 2, 8, 9",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "347",
+          "name": "Coca Cola Glasﬂasche 1, 2, 8",
+          "description": null,
+          "sizes": [
+            "0,33 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "349",
+          "name": "Coca Cola Zero Glasﬂasche 1, 2, 8, 9",
+          "description": null,
+          "sizes": [
+            "0,33 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "350",
+          "name": "Sprite Glasﬂasche",
+          "description": null,
+          "sizes": [
+            "0,33 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "351",
+          "name": "Fanta Glasﬂasche 1",
+          "description": null,
+          "sizes": [
+            "0,33 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "354",
+          "name": "Bitter Lemon 1, 3, 11",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "3,30 €"
+          ]
+        },
+        {
+          "code": "355",
+          "name": "Tonic Water 3, 11",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "3,30 €"
+          ]
+        },
+        {
+          "code": "356",
+          "name": "Ginger Ale 1, 3",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "3,30 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Erfrischende indische Joghurt-Getränke",
+      "items": [
+        {
+          "code": "381",
+          "name": "Saures Lassi g",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        },
+        {
+          "code": "382",
+          "name": "Süßes Lassi g",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        },
+        {
+          "code": "383",
+          "name": "Mint Lassi g salziges Lassi mit frischer gehackter Minze",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,90 €"
+          ]
+        },
+        {
+          "code": "384",
+          "name": "Mango Lassi g",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,90 €"
+          ]
+        },
+        {
+          "code": "385",
+          "name": "Lychee Lassi g",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,90 €"
+          ]
+        },
+        {
+          "code": "386",
+          "name": "Maracuja Lassi g",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,90 €"
+          ]
+        },
+        {
+          "code": "387",
+          "name": "Granatapfel Lassi g",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,90 €"
+          ]
+        },
+        {
+          "code": "388",
+          "name": "Kokos-Ananas Lassi g",
+          "description": null,
+          "sizes": [
+            "0,25 l"
+          ],
+          "prices": [
+            "3,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Säfte",
+      "items": [
+        {
+          "code": "358",
+          "name": "Apfelsaft",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "2,90 €"
+          ]
+        },
+        {
+          "code": "359",
+          "name": "Orangensaft",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "2,90 €"
+          ]
+        },
+        {
+          "code": "360",
+          "name": "Johannesbeeren-Nektar",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "2,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SÄFTE",
+      "items": [
+        {
+          "code": "361",
+          "name": "Mangonektar 60% Fruchtanteil",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        },
+        {
+          "code": "362",
+          "name": "Lycheenektar 19% Fruchtanteil",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        },
+        {
+          "code": "363",
+          "name": "Guavennektar 18% Fruchtanteil",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        },
+        {
+          "code": "364",
+          "name": "Maracujanektar 18% Fruchtanteil",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        },
+        {
+          "code": "365",
+          "name": "Granatapfelnektar 25% Fruchtanteil",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        },
+        {
+          "code": "366",
+          "name": "Ananas & Kokosnektar 18% Fruchtanteil",
+          "description": null,
+          "sizes": [
+            "0,2 l"
+          ],
+          "prices": [
+            "3,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SCHORLEN",
+      "items": [
+        {
+          "code": "367",
+          "name": "Apfelsaftschorle",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "368",
+          "name": "Orangensaftschorle",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "369",
+          "name": "Johannisbeernektarschorle",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "370",
+          "name": "Rhabarbernektarschorle mit frischer Minze",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        },
+        {
+          "code": "371",
+          "name": "Melonen Minze Schorle",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,50 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SAFTSCHORLEN AUS INDIEN",
+      "items": [
+        {
+          "code": "370",
+          "name": "Mangonektarschorle",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "371",
+          "name": "Lycheenektarschorle",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "373",
+          "name": "Guavennektarschorle",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "374",
+          "name": "Maracujanektarschorle",
+          "description": null,
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "375",
+          "name": "Kokos-Ananasnektarschorle",
+          "description": "Auf Wunsch servieren wir alle",
+          "sizes": [
+            "0,4 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Schorlen",
+      "items": []
+    },
+    {
+      "title": "BIERE",
+      "items": [
+        {
+          "code": "401",
+          "name": "Paulaner Münchner Hell a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "402",
+          "name": "Paulaner Pils vom Fass a",
+          "description": null,
+          "sizes": [
+            "0,3 l"
+          ],
+          "prices": [
+            "3,90 €"
+          ]
+        },
+        {
+          "code": "403",
+          "name": "Paulaner Hefe-Weißbier a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "404",
+          "name": "Paulaner Weißbier leicht, Flasche a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "405",
+          "name": "Paulaner Weißbier alkoholfrei, Flasche a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "406",
+          "name": "Paulaner Weißbier alkoholfrei, Lemon a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "407",
+          "name": "Paulaner Münchener Dunkel a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "408",
+          "name": "Paulaner Dunkel, Flasche a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "409",
+          "name": "Paulaner Hell Alkoholfrei, Flasche a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "410",
+          "name": "Paulaner Radler a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "411",
+          "name": "Paulaner Russ a",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "412",
+          "name": "Paulaner Cola-Weizen a, 1, 2, 8",
+          "description": null,
+          "sizes": [
+            "0,5 l"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "413",
+          "name": "King Fisher, Flasche (aus Indien)",
+          "description": null,
+          "sizes": [
+            "0,33 l"
+          ],
+          "prices": [
+            "3,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tee",
+      "items": []
+    },
+    {
+      "title": "Tee",
+      "items": []
+    },
+    {
+      "title": "Tee",
+      "items": []
+    },
+    {
+      "title": "Tee",
+      "items": []
+    },
+    {
+      "title": "Tee",
+      "items": [
+        {
+          "code": "431",
+          "name": "Tasse Chai – Indischer Haus",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "tee",
+      "items": []
+    },
+    {
+      "title": "Tee",
+      "items": [
+        {
+          "code": "432",
+          "name": "Kännchen Chai – Indischer Haus",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "tee",
+      "items": []
+    },
+    {
+      "title": "Tee",
+      "items": [
+        {
+          "code": "434",
+          "name": "Kännchen Darjeeling Indien g",
+          "description": "seltenes Hochlandgewächs von exquisiter Qualität, ein etwas herber frisch blumiger",
+          "sizes": [],
+          "prices": [
+            "6,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tee",
+      "items": [
+        {
+          "code": "435",
+          "name": "Kännchen Ceylon-Sri Lanka",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "Tee",
+      "items": []
+    },
+    {
+      "title": "Tee",
+      "items": [
+        {
+          "code": "436",
+          "name": "Kännchen Golden Nepal g",
+          "description": "hocharomatischer eleganter und rassiger Himalaya-Hochland",
+          "sizes": [],
+          "prices": [
+            "6,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "tee",
+      "items": [
+        {
+          "code": "437",
+          "name": "Special Earl Grey g",
+          "description": "wertvoIles Bergamotte-Aroma, kräftig intensiv",
+          "sizes": [],
+          "prices": [
+            "6,90 €"
+          ]
+        },
+        {
+          "code": "438",
+          "name": "Grüner",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "Tee",
+      "items": []
+    },
+    {
+      "title": "Tee",
+      "items": [
+        {
+          "code": "439",
+          "name": "Fresh Minz",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "Tee",
+      "items": [
+        {
+          "code": "440",
+          "name": "Fresh lngwer",
+          "description": null,
+          "sizes": [],
+          "prices": []
+        }
+      ]
+    },
+    {
+      "title": "Tee",
+      "items": []
+    },
+    {
+      "title": "Tee",
+      "items": []
+    },
+    {
+      "title": "Warme  Getränke",
+      "items": [
+        {
+          "code": "451",
+          "name": "Espresso 2",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "3,20 €"
+          ]
+        },
+        {
+          "code": "452",
+          "name": "Kaffee 2",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "453",
+          "name": "Cappuccino 2g",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "454",
+          "name": "Milchkaffee 2g",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "455",
+          "name": "Latte Macchiato 2g",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "456",
+          "name": "Doppelter Espresso 2",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "4,20 €"
+          ]
+        },
+        {
+          "code": "457",
+          "name": "Espresso Corretto – mit Grappa 2",
+          "description": null,
+          "sizes": [],
+          "prices": [
+            "5,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Indische und  internationale Spirituosen",
+      "items": [
+        {
+          "code": "461",
+          "name": "Old Honk Rum 42,8 %5,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "5,90 €"
+          ]
+        },
+        {
+          "code": "462",
+          "name": "Mangolikör, hausgemacht",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "3,20 €"
+          ]
+        },
+        {
+          "code": "463",
+          "name": "Mangolikör, hausgemacht (zum Mitnehmen) 1",
+          "description": null,
+          "sizes": [
+            "1,0 l"
+          ],
+          "prices": [
+            "25,90 €"
+          ]
+        },
+        {
+          "code": "464",
+          "name": "Indischer Mangoschnaps 38 %4,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "470",
+          "name": "Jägermeister 32 %4,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "471",
+          "name": "Ramazzotti 30 %4,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "472",
+          "name": "Averna Amoro Siciliano 29 %4,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "473",
+          "name": "Fernet Branca 39 %4,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "474",
+          "name": "Wodka Moskovskaja 40 %4,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "475",
+          "name": "Jubiläums Aquavit 42 %4,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        },
+        {
+          "code": "476",
+          "name": "Morand Williamsbirne 43 %5,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "5,90 €"
+          ]
+        },
+        {
+          "code": "477",
+          "name": "Grappa Prime Uve 40 %4,20 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "4,20 €"
+          ]
+        },
+        {
+          "code": "478",
+          "name": "Remy Martin V.S.O.P. 40 %5,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "5,90 €"
+          ]
+        },
+        {
+          "code": "479",
+          "name": "Calvados 42 %4,90 €",
+          "description": null,
+          "sizes": [
+            "2 cl"
+          ],
+          "prices": [
+            "4,90 €"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Weissweine",
+      "items": []
+    },
+    {
+      "title": "Roseweine",
+      "items": []
+    },
+    {
+      "title": "Rotweine",
+      "items": []
+    },
+    {
+      "title": "Schaumweine",
+      "items": []
+    },
+    {
+      "title": "Champagner",
+      "items": []
+    }
+  ]
+}

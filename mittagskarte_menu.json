@@ -1,0 +1,252 @@
+{
+  "restaurant": "TAJ MAHAL – Indisches Restaurant",
+  "menu_type": "Mittagskarte (Lunch Menu)",
+  "currency": "EUR",
+  "source_pdf": "Mittagskarte 2025-2.pdf",
+  "hours": "Montag–Freitag 11:30–14:30 Uhr",
+  "note": "außer an Feiertagen",
+  "sections": [
+    {
+      "title": "MITTAGSMENÜS - LUNCH SPECIALS",
+      "items": [
+        {
+          "code": "M1",
+          "name": "Chicken Curry Lunch",
+          "description": "Zartes Hähnchenfilet in Currysoße, serviert mit Basmati Reis und Salat – Tender chicken in curry sauce, served with basmati rice and salad",
+          "sizes": [],
+          "prices": ["9,90 €"]
+        },
+        {
+          "code": "M2",
+          "name": "Butter Chicken Lunch g, e",
+          "description": "Hähnchenfilet in Butter-Tomaten-Soße, serviert mit Basmati Reis und Nan – Chicken in butter-tomato sauce, served with basmati rice and nan",
+          "sizes": [],
+          "prices": ["10,50 €"]
+        },
+        {
+          "code": "M3",
+          "name": "Chicken Tikka Masala Lunch g, e",
+          "description": "Tandoori Hähnchenfilet in Masalasauce, mit Reis und Salat – Tandoori chicken in masala sauce, with rice and salad",
+          "sizes": [],
+          "prices": ["10,50 €"]
+        },
+        {
+          "code": "M4",
+          "name": "Chicken Saag Lunch",
+          "description": "Hähnchenfilet mit indischem Spinat, serviert mit Basmati Reis – Chicken with Indian spinach, served with basmati rice",
+          "sizes": [],
+          "prices": ["9,90 €"]
+        },
+        {
+          "code": "M5",
+          "name": "Lamb Curry Lunch",
+          "description": "Zartes Lammfleisch in Currysoße, serviert mit Basmati Reis und Salat – Tender lamb in curry sauce, served with basmati rice and salad",
+          "sizes": [],
+          "prices": ["11,50 €"]
+        },
+        {
+          "code": "M6",
+          "name": "Rogan Josh Lunch",
+          "description": "Lammfleisch in Rogan-Curry-Soße, mit Reis und Nan – Lamb in Rogan curry sauce, with rice and nan",
+          "sizes": [],
+          "prices": ["11,50 €"]
+        },
+        {
+          "code": "M7",
+          "name": "Beef Curry Lunch",
+          "description": "Rindfleisch in Currysauce, serviert mit Basmati Reis und Salat – Beef in curry sauce, served with basmati rice and salad",
+          "sizes": [],
+          "prices": ["10,90 €"]
+        },
+        {
+          "code": "M8",
+          "name": "Beef Masala Lunch g, e",
+          "description": "Rindfleisch in Masala-Soße, mit Reis und Salat – Beef in masala sauce, with rice and salad",
+          "sizes": [],
+          "prices": ["11,50 €"]
+        }
+      ]
+    },
+    {
+      "title": "VEGETARISCHE MITTAGSMENÜS - VEGETARIAN LUNCH SPECIALS",
+      "items": [
+        {
+          "code": "M9",
+          "name": "Dal Tadka Lunch",
+          "description": "Gelbe Linsen mit Gewürzen, serviert mit Basmati Reis und Nan – Yellow lentils with spices, served with basmati rice and nan",
+          "sizes": [],
+          "prices": ["8,90 €"]
+        },
+        {
+          "code": "M10",
+          "name": "Chana Masala Lunch",
+          "description": "Kichererbsen in Masala-Soße, mit Reis und Salat – Chickpeas in masala sauce, with rice and salad",
+          "sizes": [],
+          "prices": ["8,90 €"]
+        },
+        {
+          "code": "M11",
+          "name": "Palak Paneer Lunch g",
+          "description": "Hausgemachter Käse in Spinatsoße, serviert mit Basmati Reis – Homemade cheese in spinach sauce, served with basmati rice",
+          "sizes": [],
+          "prices": ["9,50 €"]
+        },
+        {
+          "code": "M12",
+          "name": "Paneer Tikka Masala Lunch g, e",
+          "description": "Gegrillter Käse in Masala-Soße, mit Reis und Nan – Grilled cheese in masala sauce, with rice and nan",
+          "sizes": [],
+          "prices": ["9,90 €"]
+        },
+        {
+          "code": "M13",
+          "name": "Mix Vegetable Curry Lunch",
+          "description": "Gemischtes Gemüse in Currysoße, serviert mit Basmati Reis – Mixed vegetables in curry sauce, served with basmati rice",
+          "sizes": [],
+          "prices": ["8,50 €"]
+        },
+        {
+          "code": "M14",
+          "name": "Aloo Gobi Lunch",
+          "description": "Kartoffeln und Blumenkohl mit Gewürzen, mit Reis und Salat – Potatoes and cauliflower with spices, with rice and salad",
+          "sizes": [],
+          "prices": ["8,50 €"]
+        }
+      ]
+    },
+    {
+      "title": "REIS & BROT - RICE & BREAD",
+      "items": [
+        {
+          "code": "M30",
+          "name": "Basmati Reis",
+          "description": "Gedämpfter Basmati Reis – Steamed basmati rice",
+          "sizes": [],
+          "prices": ["3,50 €"]
+        },
+        {
+          "code": "M31",
+          "name": "Pilau Reis",
+          "description": "Gewürzter Basmati Reis – Spiced basmati rice",
+          "sizes": [],
+          "prices": ["3,90 €"]
+        },
+        {
+          "code": "M32",
+          "name": "Nan a1",
+          "description": "Indisches Fladenbrot aus dem Tandoor – Indian flatbread from the tandoor",
+          "sizes": [],
+          "prices": ["3,20 €"]
+        },
+        {
+          "code": "M33",
+          "name": "Garlic Nan a1",
+          "description": "Fladenbrot mit Knoblauch – Flatbread with garlic",
+          "sizes": [],
+          "prices": ["3,50 €"]
+        },
+        {
+          "code": "M34",
+          "name": "Lachsan Kulcha a1g",
+          "description": "Hefeteigbrot gefüllt mit Knoblauch – Raised bread filled with garlic",
+          "sizes": [],
+          "prices": ["4,20 €"]
+        },
+        {
+          "code": "M35",
+          "name": "Cheese Nan a1g",
+          "description": "Fladenbrot gefüllt mit Käse – Flatbread filled with cheese",
+          "sizes": [],
+          "prices": ["4,50 €"]
+        },
+        {
+          "code": "M36",
+          "name": "Paneer Kulcha a1g",
+          "description": "Hefeteigbrot gefüllt mit hausgemachtemKäse – Raised bread with homemade cheese",
+          "sizes": [],
+          "prices": ["4,20 €"]
+        }
+      ]
+    },
+    {
+      "title": "BEILAGEN - SIDE DISHES",
+      "items": [
+        {
+          "code": "M40",
+          "name": "Raita g",
+          "description": "Joghurt mit Gurken und Gewürzen – Yogurt with cucumbers and spices",
+          "sizes": [],
+          "prices": ["3,50 €"]
+        },
+        {
+          "code": "M41",
+          "name": "Gemischter Salat",
+          "description": "Frischer gemischter Salat – Fresh mixed salad",
+          "sizes": [],
+          "prices": ["4,50 €"]
+        },
+        {
+          "code": "M42",
+          "name": "Papadam",
+          "description": "Knusprige Linsencracker – Crispy lentil crackers",
+          "sizes": ["2 Stück"],
+          "prices": ["2,50 €"]
+        },
+        {
+          "code": "M43",
+          "name": "Mango Chutney",
+          "description": "Süßes Mango-Chutney – Sweet mango chutney",
+          "sizes": [],
+          "prices": ["2,90 €"]
+        }
+      ]
+    },
+    {
+      "title": "GETRÄNKE - BEVERAGES",
+      "items": [
+        {
+          "code": "M50",
+          "name": "Mango Lassi g",
+          "description": "Joghurtgetränk mit Mango – Yogurt drink with mango",
+          "sizes": ["0,3 l"],
+          "prices": ["3,90 €"]
+        },
+        {
+          "code": "M51",
+          "name": "Sweet Lassi g",
+          "description": "Süßes Joghurtgetränk – Sweet yogurt drink",
+          "sizes": ["0,3 l"],
+          "prices": ["3,50 €"]
+        },
+        {
+          "code": "M52",
+          "name": "Salted Lassi g",
+          "description": "Salziges Joghurtgetränk – Salted yogurt drink",
+          "sizes": ["0,3 l"],
+          "prices": ["3,50 €"]
+        },
+        {
+          "code": "M53",
+          "name": "Masala Chai",
+          "description": "Indischer Gewürztee – Indian spiced tea",
+          "sizes": ["0,2 l"],
+          "prices": ["2,90 €"]
+        },
+        {
+          "code": "M54",
+          "name": "Mineralwasser",
+          "description": "Still oder sprudelnd – Still or sparkling",
+          "sizes": ["0,25 l", "0,75 l"],
+          "prices": ["2,50 €", "5,90 €"]
+        },
+        {
+          "code": "M55",
+          "name": "Cola 1,9",
+          "description": "Coca-Cola",
+          "sizes": ["0,33 l"],
+          "prices": ["3,20 €"]
+        }
+      ]
+    }
+  ]
+}
