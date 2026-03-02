@@ -1330,7 +1330,7 @@ export default function Page() {
                       </p>
                       <a
                         aria-label="address"
-                        href="https://maps.app.goo.gl/PFQf45ysWMXU4sPeA?g_st=iwb"
+                        href="https://share.google/df6DQ9ljtyiBndTf2"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text_link"

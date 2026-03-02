@@ -47,7 +47,7 @@ export default function EventsPage() {
             <div class="footel_line"></div>
             <div class="footer-top">
               <div class="footer-top_center"><a href="/" class="w-inline-block"><img src="https://placehold.co/200x80?text=Taj+Mahal+Logo" alt="Logo" class="footer_logo"></a>
-                <div class="footer-text-wrapper"><a aria-label="address" href="https://maps.app.goo.gl/PFQf45ysWMXU4sPeA?g_st=iwb" target="_blank" class="text_link">Friedensstraße 9, 85586 Poing</a><a href="tel:+498121986166" class="text_link">+49 (0) 8121986166</a><a href="mailto:info@taj-mahal-poing.de" class="text_link">info@taj-mahal-poing.de</a></div>
+                <div class="footer-text-wrapper"><a aria-label="address" href="https://share.google/df6DQ9ljtyiBndTf2" target="_blank" class="text_link">Friedensstraße 9, 85586 Poing</a><a href="tel:+498121986166" class="text_link">+49 (0) 8121986166</a><a href="mailto:info@taj-mahal-poing.de" class="text_link">info@taj-mahal-poing.de</a></div>
               </div>
             </div>
             <div class="footel_line"></div>

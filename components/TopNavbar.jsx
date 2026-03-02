@@ -238,7 +238,7 @@ export default function TopNavbar() {
 									</svg>
 								</div>
 							</a>
-							<a aria-label="location" href="https://maps.app.goo.gl/PFQf45ysWMXU4sPeA?g_st=iwb" className="mob_link w-inline-block">
+							<a aria-label="location" href="https://share.google/df6DQ9ljtyiBndTf2" className="mob_link w-inline-block">
 								<div className="icon_mob w-embed">
 									<svg width="24" height="30" viewBox="0 0 24 30" fill="none" xmlns="http://www.w3.org/2000/svg">
 										<g clipPath="url(#clip0_432_2224)">

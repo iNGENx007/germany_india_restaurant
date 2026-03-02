@@ -505,7 +505,7 @@ export default function ImpressionPage() {
                 </a>
                 <a
                   aria-label="location"
-                  href="https://maps.app.goo.gl/PFQf45ysWMXU4sPeA?g_st=iwb"
+                  href="https://share.google/df6DQ9ljtyiBndTf2"
                   className="mob_link w-inline-block"
                 >
                   <div className="icon_mob w-embed">
@@ -924,7 +924,7 @@ export default function ImpressionPage() {
                         </p>
                         <a
                           aria-label="address"
-                          href="https://maps.app.goo.gl/PFQf45ysWMXU4sPeA?g_st=iwb"
+                          href="https://share.google/df6DQ9ljtyiBndTf2"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text_link"
