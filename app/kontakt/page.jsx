@@ -562,7 +562,7 @@ export default function KontaktPage() {
             Reservierung
           </a>
           <a
-            href="https://maps.app.goo.gl/PFQf45ysWMXU4sPeA?g_st=iwb"
+            href="https://share.google/df6DQ9ljtyiBndTf2"
             target="_blank"
             rel="noopener noreferrer"
             className="button_mobile w-button"
@@ -616,7 +616,7 @@ export default function KontaktPage() {
                 Reservierung
               </a>
               <a
-                href="https://maps.app.goo.gl/PFQf45ysWMXU4sPeA?g_st=iwb"
+                href="https://share.google/df6DQ9ljtyiBndTf2"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="button is-yellow w-button"
