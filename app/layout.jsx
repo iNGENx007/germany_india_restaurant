@@ -8,7 +8,7 @@ import { LanguageProvider } from "./contexts/LanguageContext";
 
 export default function RootLayout({ children }) {
   return (
-    <html data-wf-domain="www.gigi.restaurant" data-wf-page="680ce7f65120df33e1a9bfcc" data-wf-site="680ce7f65120df33e1a9bf6d" lang="de" dir="ltr">
+    <html data-wf-domain="www.taj-mahal-poing.de" data-wf-page="680ce7f65120df33e1a9bfcc" data-wf-site="680ce7f65120df33e1a9bf6d" lang="de" dir="ltr" suppressHydrationWarning>
       <head>
         <meta charSet="utf-8" />
         <meta property="og:type" content="website" />
@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
         <link href="https://cdn.prod.website-files.com/680ce7f65120df33e1a9bf6d/css/gigi-2025.shared.235c6ae77.min.css" rel="stylesheet" type="text/css" />
         <link href="/images/taj-mahal.png" rel="shortcut icon" type="image/png" />
         <link href="/images/taj-mahal.png" rel="apple-touch-icon" />
-        <link href="https://gigi.restaurant" rel="canonical" />
+        <link href="https://www.taj-mahal-poing.de" rel="canonical" />
 
         {/* [Attributes by Finsweet] Disable scrolling */}
         <script defer src="/js/attributes-scrolldisable@1-scrolldisable.js"></script>
@@ -66,32 +66,16 @@ export default function RootLayout({ children }) {
     .hero_logo { position: absolute; top: 50%; left: 50%; z-index: 10; overflow: hidden; pointer-events: none; }
     .hero_logo::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(90deg, transparent 0%, rgba(255, 255, 255, 0.5) 50%, transparent 100%); transform: translateX(-100%) translateY(-100%) rotate(45deg); animation: shine 6s infinite; pointer-events: none; z-index: 1; }
     .home_hero-image:hover::before, .about-image-wrapper:hover::before, .home_photo-wrapper:hover::before, .hero_logo:hover::before { animation: shine 1.5s infinite; }
-        ` }} />
+` }} />
       </head>
-      <body>
+      <body suppressHydrationWarning>
         <LanguageProvider>
           {children}
         </LanguageProvider>
-        <script dangerouslySetInnerHTML={{ __html: `
-          (function(){
-            function ready(fn){ if(document.readyState!=='loading'){ fn(); } else { document.addEventListener('DOMContentLoaded', fn); } }
-            ready(function(){
-              var btn = document.querySelector('.w-nav-button');
-              var menu = document.querySelector('.w-nav-menu');
-              if(btn && menu){
-                btn.addEventListener('click', function(){
-                  var open = menu.getAttribute('data-open') === 'true';
-                  menu.setAttribute('data-open', (!open).toString());
-                  menu.style.display = open ? 'none' : 'block';
-                });
-                menu.querySelectorAll('a').forEach(function(a){ a.addEventListener('click', function(){ menu.setAttribute('data-open','false'); menu.style.display='none'; }); });
-              }
-            });
-          })();
-        ` }} />
       </body>
     </html>
   );
 }
+
 
 

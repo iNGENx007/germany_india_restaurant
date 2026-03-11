@@ -8,13 +8,16 @@ import TopNavbar from "../components/TopNavbar";
 export default function Page() {
   const [currentSlide, setCurrentSlide] = useState(0);
   const slides = [
-    "/images/high-angle-indian-food-assortment.jpg",
-    "/images/high-angle-indian-food-with-sauce.jpg",
-    "/images/hs1.jpg",
-    "/images/hs2.jpg",
-    "/images/hs3.jpg",
-    "/images/hs4.jpg",
-    "/images/hs5.jpg",
+    "/images/hero-new1.png",
+    "/images/hero-new2.png",
+    "/images/hero-new3.png",
+    "/images/hero-new4.png",
+    "/images/hero-new5.jpg",
+    "/images/hero-new6.jpg",
+    "/images/hero-new7.png",
+    "/images/hero-new8.png",
+    "/images/hero-new9.png",
+    "/images/hero-new10.png",
   ];
 
   useEffect(() => {
@@ -911,72 +914,18 @@ export default function Page() {
 
       <main className="main-wrapper">
         <header className="section_home-hero">
-          <div className="home_component">
+          <div className="home_component" style={{ position: "relative" }}>
             <div
-              data-delay="4000"
-              data-animation="fade"
-              className="home_slider w-slider"
-              data-autoplay="true"
-              data-easing="ease"
-              data-hide-arrows="true"
-              data-disable-swipe="false"
-              data-w-id="b812ad33-981e-9c2f-3a5e-249486af3698"
-              data-autoplay-limit="0"
-              data-nav-spacing="3"
-              data-duration="1111"
-              data-infinite="true"
-            >
-              <div className="home_slider-mask w-slider-mask">
-                <div className="home_hero-wrapper w-slide">
-                  <Image
-                    src="/images/hh1.jpg"
-                    priority
-                    fill
-                    style={{
-                      objectFit: "cover",
-                      transform:
-                        "translate3d(0, 0, 0) scale3d(1.05, 1.05, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    sizes="100vw"
-                    alt="Heller, stilvoll eingerichteter Gastraum des Restaurant Taj Mahal in Poing mit warmem Ambiente und traditionellen indischen Designelementen – authentisches Flair in modernem Ambiente."
-                    className="home_hero-image"
-                  />
-                </div>
-                <div className="home_hero-wrapper w-slide">
-                  <Image
-                    src="/images/hh2.jpg"
-                    priority
-                    fill
-                    style={{
-                      objectFit: "cover",
-                      transform:
-                        "translate3d(0, 0, 0) scale3d(1.05, 1.05, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    sizes="100vw"
-                    alt="Stilvoller Gastraum des Restaurant Taj Mahal in Poing mit dekorativen Elementen, gemütlichen Sitzplätzen und authentischer indischer Atmosphäre – ideal für traditionelle Gerichte und Familienessen."
-                    className="home_hero-image"
-                  />
-                </div>
-                <div className="home_hero-wrapper w-slide">
-                  <Image
-                    src="/images/hh3.jpg"
-                    priority
-                    fill
-                    style={{
-                      objectFit: "cover",
-                      transform:
-                        "translate3d(0, 0, 0) scale3d(1.05, 1.05, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    sizes="100vw"
-                    alt="Stilvoller Gastraum im Restaurant Taj Mahal in Poing mit warmem Licht und eleganter Atmosphäre für private Dinner und Familienfeiern."
-                    className="home_hero-image"
-                  />
-                </div>
-              </div>
-              <div className="home_slider-arrow w-slider-arrow-left"></div>
-              <div className="home_slider-arrow w-slider-arrow-right"></div>
-              <div className="home_slider-nav w-slider-nav"></div>
-            </div>
+              className="home_hero-image-static"
+              style={{
+                backgroundImage: "url('/images/herosection-backgroung.png')",
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+                backgroundRepeat: "no-repeat",
+                width: "100%",
+                height: "100vh",
+              }}
+            />
             <Image
               src="/images/tajmahalhome.png"
               priority
@@ -1386,31 +1335,6 @@ export default function Page() {
       </div>
       <div className="filter"></div>
 
-      {/* External scripts */}
-      <Script
-        src="/js/js-jquery-3.5.1.min.dc5e7f18c8.js"
-        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
-        crossOrigin="anonymous"
-        strategy="afterInteractive"
-        onLoad={() => {
-          const scripts = [
-            "/js/js-gigi-2025.schunk.36b8fb49256177c8.js",
-            "/js/js-gigi-2025.schunk.1176fe8c62e4f594.js",
-            "/js/js-gigi-2025.schunk.61b534daaaeddbc7.js",
-            "/js/js-gigi-2025.786f41e7.0091cb714b9c1fb6.js",
-          ];
-          let i = 0;
-          function loadNext() {
-            if (i >= scripts.length) return;
-            const s = document.createElement("script");
-            s.src = scripts[i];
-            s.onload = () => { i++; loadNext(); };
-            s.onerror = () => { i++; loadNext(); };
-            document.body.appendChild(s);
-          }
-          loadNext();
-        }}
-      />
     </>
   );
 }

@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react";
 import Image from "next/image";
+import TopNavbar from "../../components/TopNavbar";
 
 export default function MenuPage() {
   const [menuData, setMenuData] = useState(null);
@@ -723,89 +724,7 @@ export default function MenuPage() {
         .search-wrap {
           flex: 1;
         }
-      `}</style>
-
-      <div
-        data-animation="default"
-        className="navbar_component w-nav"
-        data-easing2="ease"
-        fs-scrolldisable-element="smart-nav"
-        data-easing="ease"
-        data-collapse="all"
-        role="banner"
-        data-no-scroll="1"
-        data-duration="0"
-      >
-        <div className="navbar_container">
-          <a href="/" className="navbar_logo-link w-nav-brand">
-            <Image
-              loading="eager"
-              src="/images/logo.png"
-              alt="Logo"
-              className="navbar_logo"
-              width={150}
-              height={60}
-            />
-            <Image
-              src="/images/logo.png"
-              loading="lazy"
-              alt="Logo"
-              className="navbar_logo is-white"
-              width={150}
-              height={60}
-            />
-          </a>
-          <div className="nav_link-wrapper">
-            <a href="tel:+498121986166" className="button is-yellow w-button">
-              Reservierung
-            </a>
-            <a
-              href="https://share.google/df6DQ9ljtyiBndTf2"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="button is-yellow w-button"
-            >
-              Pickup Order
-            </a>
-          </div>
-          <nav role="navigation" className="navbar_menu w-nav-menu">
-            <div className="navbar_menu-wrapper">
-              <div className="navbar_links-wrapper">
-                <a href="/" className="navbar_link w-nav-link">
-                  Home
-                </a>
-                <a href="/menu" className="navbar_link w-nav-link w--current">
-                  Menü
-                </a>
-                <a href="/impression" className="navbar_link w-nav-link">
-                  Impressionen
-                </a>
-                <a href="/events" className="navbar_link w-nav-link">
-                  Gruppen &amp; Events
-                </a>
-                <a href="/karriere" className="navbar_link w-nav-link">
-                  Karriere
-                </a>
-                <a href="/kontakt" className="navbar_link w-nav-link">
-                  Kontakt
-                </a>
-              </div>
-            </div>
-          </nav>
-          <div className="navbar_menu-button mobile_link-wrapper w-nav-button">
-            <div className="menu-icon">
-              <div className="menu-icon_wrapper">
-                <div className="menu-icon_line-top">
-                  <div className="div-block-8"></div>
-                </div>
-                <div className="menu-icon_line-bottom">
-                  <div className="div-block-8"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      `}</style>      <TopNavbar />
 
       {/* Menu Header Image */}
       <div className="menu-header-image-wrapper">
@@ -819,7 +738,7 @@ export default function MenuPage() {
           <div className="hero-content">
             <h1 className="hero-title">Unsere Speisekarte</h1>
             <p className="hero-sub">
-              Italienisch inspiriert, zeitlos serviert – entdecken Sie unsere
+              Authentisch indisch, traditionell serviert – entdecken Sie unsere
               aktuelle Auswahl.
             </p>
             <div className="hero-actions">
